@@ -19,7 +19,7 @@ The data for this project is sourced from the Kaggle dataset:
 - **Dataset Link:** [Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
 
 ## Dashboard
-**Dashboard link** [Tableau Public for the dashboard](https://public.tableau.com/app/profile/jatin.yadav2805/viz/netflix_17297596233330/Netflix)
+**Dashboard link** [Tableau Public](https://public.tableau.com/app/profile/jatin.yadav2805/viz/netflix_17297596233330/Netflix)
 
 ## Schema
 
