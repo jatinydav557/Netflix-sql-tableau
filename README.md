@@ -18,6 +18,9 @@ The data for this project is sourced from the Kaggle dataset:
 
 - **Dataset Link:** [Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
 
+## Dashboard
+**Dashboard link** [Tableau Public for the dashboard](https://public.tableau.com/app/profile/jatin.yadav2805/viz/netflix_17297596233330/Netflix)
+
 ## Schema
 
 ```sql
@@ -264,8 +267,6 @@ GROUP BY category;
 - **Content Categorization:** Categorizing content based on specific keywords helps in understanding the nature of content available on Netflix.
 
 This analysis provides a comprehensive view of Netflix's content and can help inform content strategy and decision-making.
-
-Tableau Public for the dashboard - https://public.tableau.com/app/profile/jatin.yadav2805/viz/netflix_17297596233330/Netflix
 
 
 
